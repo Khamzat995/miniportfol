@@ -1,0 +1,99 @@
+.container {
+  width: 700px;
+  margin-top: 40px;  
+  margin-right: auto;
+  margin-left: auto;  
+}
+.container__card1 {
+  background: #FFFFFF;
+  color:#575F7D;
+  padding-top: 20px;
+  border-radius: 4px;
+  text-align: center;
+  margin: auto;
+  padding-bottom: 40px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.myfoto {
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5); /* Параметры тени */ 
+}
+.botton1 {
+  background: #6B72E1;
+  padding: 12px 12px;
+  border-radius: 4px;
+  width: 150px;
+  margin: auto;
+  cursor: pointer;
+}
+.botton1:hover {
+    color: #ffe; 
+    background-color: black; 
+}
+.myssylk {
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+}
+.container__card2 {
+  background: #FFFFFF;
+  margin-top: 20px;
+  padding-top: 20px;
+  text-align: center;
+  color:green;
+  border-radius: 4px;
+  padding-bottom: 30px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.cardbody {
+  margin: auto;
+  padding-left: 35%;
+  
+}
+.container__menu11 {
+  width: 200px;
+  justify-content: space-between;
+  display: flex;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.git1 {
+    list-style-type: none;
+}
+.tvit {
+    list-style-type: none;
+}
+.inst {
+    list-style-type: none;
+}
+
+:hover/*.botton1:hover {
+    color: #ffe; 
+    background-color: black; 
+
+   
+/*.h1 {
+      color:#575F7D;
+      font-size: 29px;
+      line-height: 200%;
+    }
+.h2 {
+      color: #6A5ACD;
+      font-size: 25px;
+      line-height: 250%;
+    }
+.h3 {
+      color:#BA55D3;
+      font-size: 18px;
+      line-height: 150%;
+    }
+.a {
+    text-decoration: none;
+    }
+.img:hover {
+        color: #575F7D;
+      }
